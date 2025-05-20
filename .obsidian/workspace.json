@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "74eda0f0fef38ce3",
+    "type": "split",
+    "children": [
+      {
+        "id": "79c2ea394bc769b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e549373ca8a1ae6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chronos Scavengers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chronos Scavengers"
+            }
+          },
+          {
+            "id": "f28623f8dc8c8161",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Iron Blight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Iron Blight"
+            }
+          },
+          {
+            "id": "002407d1c79032d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Bloomwilde Contagion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Bloomwilde Contagion"
+            }
+          },
+          {
+            "id": "5fefa862ba1a71a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Active dissonance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Active dissonance"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0f78827e06297942",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6c3508dadfad92c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4f79910d73dbc9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b7381b08ed75aed0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:moc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "58a8fd27c49960c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87f43b3b5fbb4d0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "414f3ae6c7adf9d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69109d870de042b4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Active dissonance.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Active dissonance"
+            }
+          },
+          {
+            "id": "2b679b5043e8600a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Active dissonance.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Active dissonance"
+            }
+          },
+          {
+            "id": "ef6805586032eafd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "84fef3b24aa6c14b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Active dissonance.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Active dissonance"
+            }
+          },
+          {
+            "id": "1db20ac98978100b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "d4f79910d73dbc9c",
+  "lastOpenFiles": [
+    "Conductors and Pantheons.md",
+    "Primordial Architects.md",
+    "Elder Architects.md",
+    "Architects.md",
+    "Quick Guide to Veridium.md",
+    "The Resonant Cascade.md",
+    "The Bloomwilde Contagion.md",
+    "The Iron Blight.md",
+    "Chronos Scavengers.md",
+    "Cogwork Concord.md",
+    "Aethelburg.md",
+    "Aethelgard.md",
+    "Ages of Veridium.md",
+    "The Age of Discovery.md",
+    "The Age of Divergence.md",
+    "The Age of Whispers.md",
+    "The Age of Silence.md",
+    "Professor Elara Vance.md",
+    "High Artificer Valerius Kane.md",
+    "Matriarch Lyra’nix.md",
+    "Elder Thawne.md",
+    "The Oracle of Resonant Peaks.md",
+    "Captain Glitch Anachronos.md",
+    "Archivist Lena Meadowlight.md",
+    "Source Nodes.md",
+    "Architect Remnants.md"
+  ]
+}
