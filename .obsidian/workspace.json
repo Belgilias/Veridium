@@ -53,14 +53,14 @@
             "id": "5fefa862ba1a71a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Great Dissonance.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Great Dissonance"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -137,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Great Dissonance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Great Dissonance"
+              "title": "Backlinks"
             }
           },
           {
@@ -156,12 +155,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Great Dissonance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Great Dissonance"
+              "title": "Outgoing links"
             }
           },
           {
@@ -185,13 +183,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Great Dissonance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Great Dissonance"
+              "title": "Outline"
             }
           },
           {
@@ -222,8 +219,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "84fef3b24aa6c14b",
+  "active": "5fefa862ba1a71a2",
   "lastOpenFiles": [
+    "Great Dissonance.md",
     "Interacting with the World-Song.md",
     "Quick Guide to Veridium.md",
     "Source Code.md",
@@ -248,7 +246,6 @@
     "High Artificer Valerius Kane.md",
     "Matriarch Lyra’nix.md",
     "Elder Thawne.md",
-    "The Oracle of Resonant Peaks.md",
-    "Captain Glitch Anachronos.md"
+    "The Oracle of Resonant Peaks.md"
   ]
 }
