@@ -48,23 +48,9 @@
               "icon": "lucide-file",
               "title": "The Bloomwilde Contagion"
             }
-          },
-          {
-            "id": "5fefa862ba1a71a2",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Bloomwilde Contagion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The Bloomwilde Contagion"
             }
           },
           {
@@ -155,11 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Bloomwilde Contagion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from The Bloomwilde Contagion"
             }
           },
           {
@@ -183,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "The Bloomwilde Contagion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of The Bloomwilde Contagion"
             }
           },
           {
@@ -219,7 +208,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fefa862ba1a71a2",
+  "active": "002407d1c79032d7",
   "lastOpenFiles": [
     "Great Dissonance.md",
     "Interacting with the World-Song.md",
