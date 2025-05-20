@@ -17,7 +17,7 @@ related_to:
 ---
 # Echo Storms
 
-**[[Echo Storms]]** are temporary, violent surges of Dissonant energy that can sweep across regions of [[Veridium]], lasting for hours or days. During an [[Echo Storm]], reality warps unpredictably. Effects can include:
+**[[Echo Storms]]** are temporary, violent surges of Dissonant energy that can sweep across regions of [[Veridium]], lasting for hours or days. During an [[Echo Storm]], [[Dissonance Hotspots|reality warps]] unpredictably. Effects can include:
 * Wild fluctuations in gravity.
 * Temporal distortions (slowing, speeding, or looping locally).
 * Inanimate objects animating with malevolent intent.
